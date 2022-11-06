@@ -67,6 +67,7 @@ class GildedRoseTest {
 		assertEquals(11, app.items[0].quality); 
 	}
 
+	
 	//The Quality of an item is never more than 50
 	@Test
 	void qualityNeverMoreFifty() {
